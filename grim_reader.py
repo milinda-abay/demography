@@ -6,7 +6,7 @@ import matplotlib.ticker as ticker
 
 
 ''' static methods'''
-
+# A Test comment to verify understanding of GIT & GITHUB workflow
 
 def remove_element_from_unicode(unicode_string, element_number, insertion_element):
     """
